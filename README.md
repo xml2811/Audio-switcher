@@ -2,6 +2,10 @@
 
 Portable Windows tool by MPTech Tools to quickly switch the default audio output device.
 
+## Preview
+
+![audio-switcher - Audio-Devie-Switcher](docs/screenshots/Audio-Devie-Switcher.png)
+
 ## What it does
 
 Audio Device Switcher helps you switch between Windows audio output devices without opening Windows sound settings.

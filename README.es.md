@@ -1,12 +1,16 @@
 # Audio Device Switcher
 
-Herramienta portable para Windows creada por MPTech Tools para cambiar rápidamente el dispositivo de salida de audio predeterminado.
+Herramienta portable para Windows creada por MPTech Tools para cambiar rÃ¡pidamente el dispositivo de salida de audio predeterminado.
 
-## Qué hace
+## Vista previa
 
-Audio Device Switcher permite cambiar entre dispositivos de salida de audio de Windows sin abrir la configuración de sonido.
+![audio-switcher - Audio-Devie-Switcher](docs/screenshots/Audio-Devie-Switcher.png)
 
-Está pensada para usuarios que cambian a menudo entre altavoces, monitores, auriculares, dispositivos Bluetooth o interfaces de audio.
+## QuÃ© hace
+
+Audio Device Switcher permite cambiar entre dispositivos de salida de audio de Windows sin abrir la configuraciÃ³n de sonido.
+
+EstÃ¡ pensada para usuarios que cambian a menudo entre altavoces, monitores, auriculares, dispositivos Bluetooth o interfaces de audio.
 
 ## Funciones
 
@@ -18,10 +22,10 @@ Está pensada para usuarios que cambian a menudo entre altavoces, monitores, aur
 - Permite excluir dispositivos del ciclo del atajo.
 - Modo segundo plano/bandeja.
 - Al cerrar la ventana, la app sigue funcionando en la bandeja.
-- Menú de bandeja con Abrir app y Cerrar app.
-- Opción de iniciar con Windows.
-- Opción de iniciar minimizada.
-- Interfaz en español, inglés y portugués.
+- MenÃº de bandeja con Abrir app y Cerrar app.
+- OpciÃ³n de iniciar con Windows.
+- OpciÃ³n de iniciar minimizada.
+- Interfaz en espaÃ±ol, inglÃ©s y portuguÃ©s.
 
 ## Release
 
@@ -48,7 +52,7 @@ El atajo alterna entre los dispositivos incluidos.
 
 Los dispositivos excluidos se ignoran en el ciclo del atajo, pero no se deshabilitan en Windows.
 
-Esto permite mantener un dispositivo disponible manualmente, pero evitar que el atajo cambie a él.
+Esto permite mantener un dispositivo disponible manualmente, pero evitar que el atajo cambie a Ã©l.
 
 ## Inicio con Windows
 
@@ -58,10 +62,10 @@ Escribe una entrada en el registro del usuario actual:
 
 HKCU\Software\Microsoft\Windows\CurrentVersion\Run
 
-Si mueves el ejecutable portable después de activar el inicio con Windows, desactiva y activa de nuevo la opción para que Windows guarde la nueva ruta.
+Si mueves el ejecutable portable despuÃ©s de activar el inicio con Windows, desactiva y activa de nuevo la opciÃ³n para que Windows guarde la nueva ruta.
 
 ## Notas
 
-Windows SmartScreen puede mostrar un aviso porque el ejecutable todavía no está firmado con certificado.
+Windows SmartScreen puede mostrar un aviso porque el ejecutable todavÃ­a no estÃ¡ firmado con certificado.
 
 Esta herramienta no usa cuentas, nube, tracking, servidores ni APIs externas.
