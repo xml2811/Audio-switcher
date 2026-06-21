@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="docs/branding/logo.png" alt="Audio Device Switcher logo" width="180">
+</p>
 # Audio Device Switcher
 
 Portable Windows tool by MPTech Tools to quickly switch the default audio output device.
