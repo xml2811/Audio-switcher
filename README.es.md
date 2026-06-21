@@ -1,19 +1,16 @@
-<p align="center">
-  <img src="docs/branding/logo.png" alt="Audio Device Switcher logo" width="180">
-</p>
 # Audio Device Switcher
 
-Herramienta portable para Windows creada por MPTech Tools para cambiar rÃƒÂ¡pidamente el dispositivo de salida de audio predeterminado.
+Herramienta portable para Windows creada por MPTech Tools para cambiar rÃƒÆ’Ã‚Â¡pidamente el dispositivo de salida de audio predeterminado.
 
 ## Vista previa
 
 ![audio-switcher - Audio-Devie-Switcher](docs/screenshots/Audio-Devie-Switcher.png)
 
-## QuÃƒÂ© hace
+## QuÃƒÆ’Ã‚Â© hace
 
-Audio Device Switcher permite cambiar entre dispositivos de salida de audio de Windows sin abrir la configuraciÃƒÂ³n de sonido.
+Audio Device Switcher permite cambiar entre dispositivos de salida de audio de Windows sin abrir la configuraciÃƒÆ’Ã‚Â³n de sonido.
 
-EstÃƒÂ¡ pensada para usuarios que cambian a menudo entre altavoces, monitores, auriculares, dispositivos Bluetooth o interfaces de audio.
+EstÃƒÆ’Ã‚Â¡ pensada para usuarios que cambian a menudo entre altavoces, monitores, auriculares, dispositivos Bluetooth o interfaces de audio.
 
 ## Funciones
 
@@ -25,10 +22,10 @@ EstÃƒÂ¡ pensada para usuarios que cambian a menudo entre altavoces, monitore
 - Permite excluir dispositivos del ciclo del atajo.
 - Modo segundo plano/bandeja.
 - Al cerrar la ventana, la app sigue funcionando en la bandeja.
-- MenÃƒÂº de bandeja con Abrir app y Cerrar app.
-- OpciÃƒÂ³n de iniciar con Windows.
-- OpciÃƒÂ³n de iniciar minimizada.
-- Interfaz en espaÃƒÂ±ol, inglÃƒÂ©s y portuguÃƒÂ©s.
+- MenÃƒÆ’Ã‚Âº de bandeja con Abrir app y Cerrar app.
+- OpciÃƒÆ’Ã‚Â³n de iniciar con Windows.
+- OpciÃƒÆ’Ã‚Â³n de iniciar minimizada.
+- Interfaz en espaÃƒÆ’Ã‚Â±ol, inglÃƒÆ’Ã‚Â©s y portuguÃƒÆ’Ã‚Â©s.
 
 ## Release
 
@@ -55,7 +52,7 @@ El atajo alterna entre los dispositivos incluidos.
 
 Los dispositivos excluidos se ignoran en el ciclo del atajo, pero no se deshabilitan en Windows.
 
-Esto permite mantener un dispositivo disponible manualmente, pero evitar que el atajo cambie a ÃƒÂ©l.
+Esto permite mantener un dispositivo disponible manualmente, pero evitar que el atajo cambie a ÃƒÆ’Ã‚Â©l.
 
 ## Inicio con Windows
 
@@ -65,10 +62,10 @@ Escribe una entrada en el registro del usuario actual:
 
 HKCU\Software\Microsoft\Windows\CurrentVersion\Run
 
-Si mueves el ejecutable portable despuÃƒÂ©s de activar el inicio con Windows, desactiva y activa de nuevo la opciÃƒÂ³n para que Windows guarde la nueva ruta.
+Si mueves el ejecutable portable despuÃƒÆ’Ã‚Â©s de activar el inicio con Windows, desactiva y activa de nuevo la opciÃƒÆ’Ã‚Â³n para que Windows guarde la nueva ruta.
 
 ## Notas
 
-Windows SmartScreen puede mostrar un aviso porque el ejecutable todavÃƒÂ­a no estÃƒÂ¡ firmado con certificado.
+Windows SmartScreen puede mostrar un aviso porque el ejecutable todavÃƒÆ’Ã‚Â­a no estÃƒÆ’Ã‚Â¡ firmado con certificado.
 
 Esta herramienta no usa cuentas, nube, tracking, servidores ni APIs externas.
