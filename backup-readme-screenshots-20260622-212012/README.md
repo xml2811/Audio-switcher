@@ -44,9 +44,12 @@ Windows users, streamers, technicians and power users with multiple audio device
 
 ## Screenshots
 
-### Audio Devie Switcher
+Screenshots should be placed in:
 
-![Audio Devie Switcher](docs/screenshots/Audio-Devie-Switcher.png)
+- docs/screenshots/main.png
+- docs/screenshots/result.png
+
+---
 
 ## Download
 
@@ -120,4 +123,3 @@ Planned improvements may include:
 ## License
 
 Check the repository license before using, modifying or redistributing this software.
-
