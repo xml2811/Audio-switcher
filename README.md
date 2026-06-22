@@ -69,3 +69,13 @@ If you move the portable executable after enabling startup, disable and enable s
 Windows SmartScreen may show a warning because the executable is not code-signed yet.
 
 This tool does not use accounts, cloud services, tracking, servers or external APIs.
+
+## License
+
+This project is source-available for personal, educational and non-commercial use only.
+
+You may view, study, download and modify the code for your own personal or internal non-commercial use.
+
+You may not sell, resell, sublicense, commercially redistribute, include it in paid products/services, or publish modified commercial versions without prior written permission.
+
+See [LICENSE](LICENSE).
