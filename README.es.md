@@ -69,3 +69,13 @@ Si mueves el ejecutable portable despuÃƒÆ’Ã‚Â©s de activar el inicio c
 Windows SmartScreen puede mostrar un aviso porque el ejecutable todavÃƒÆ’Ã‚Â­a no estÃƒÆ’Ã‚Â¡ firmado con certificado.
 
 Esta herramienta no usa cuentas, nube, tracking, servidores ni APIs externas.
+
+## Licencia
+
+Este proyecto tiene cÃ³digo visible para uso personal, educativo y no comercial.
+
+Puedes ver, estudiar, descargar y modificar el cÃ³digo para tu propio uso personal o interno no comercial.
+
+No puedes venderlo, revenderlo, sublicenciarlo, redistribuirlo comercialmente, incluirlo en productos/servicios de pago ni publicar versiones modificadas comerciales sin permiso previo por escrito.
+
+Consulta [LICENSE](LICENSE).
