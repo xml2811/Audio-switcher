@@ -18,4 +18,7 @@ dist/
 node_modules/
 src-tauri/target/
 target/
-Thumbs.db
+Thumbs.dbbackup-readme-*/
+backup-readme-conflict-*/
+backup-readme-encoding-*/
+backup-readme-screenshots-*/

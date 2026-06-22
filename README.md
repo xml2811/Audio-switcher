@@ -44,9 +44,9 @@ Windows users, streamers, technicians and power users with multiple audio device
 
 ## Screenshots
 
-### Audio Devie Switcher
+### Audio Device Switcher
 
-![Audio Devie Switcher](docs/screenshots/Audio-Devie-Switcher.png)
+<img src="docs/screenshots/Audio-Devie-Switcher.png" alt="Audio Device Switcher" width="900">
 
 ## Download
 
@@ -120,4 +120,5 @@ Planned improvements may include:
 ## License
 
 Check the repository license before using, modifying or redistributing this software.
+
 
