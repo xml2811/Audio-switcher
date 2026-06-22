@@ -11,7 +11,7 @@
 
 ## Overview
 
-Audio Device Switcher is part of **MPTech Windows Tools**, a collection of small utilities focused on practical technical use cases.
+Audio Device Switcher is part of MPTech Windows Tools, a collection of small utilities focused on practical technical use cases.
 
 Official website:
 
@@ -44,7 +44,11 @@ Windows users, streamers, technicians and power users with multiple audio device
 
 ## Screenshots
 
-Screenshots should be placed in:
+Screenshots will be added in:
+
+docs/screenshots/
+
+Recommended files:
 
 - docs/screenshots/main.png
 - docs/screenshots/result.png
@@ -74,6 +78,7 @@ General usage:
 2. Place it in any folder.
 3. Run it.
 
+<<<<<<< HEAD
 No installer is required unless a future release adds one.
 
 ---
@@ -123,3 +128,16 @@ Planned improvements may include:
 ## License
 
 Check the repository license before using, modifying or redistributing this software.
+=======
+This tool does not use accounts, cloud services, tracking, servers or external APIs.
+
+## License
+
+This project is source-available for personal, educational and non-commercial use only.
+
+You may view, study, download and modify the code for your own personal or internal non-commercial use.
+
+You may not sell, resell, sublicense, commercially redistribute, include it in paid products/services, or publish modified commercial versions without prior written permission.
+
+See [LICENSE](LICENSE).
+>>>>>>> 8e4e8c90a58a01ea96821a844e094b8bf046ccbe
