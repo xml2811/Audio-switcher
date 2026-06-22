@@ -1,71 +1,129 @@
-# Audio Device Switcher
+﻿# Audio Device Switcher
 
-Portable Windows tool by MPTech Tools to quickly switch the default audio output device.
+## Portable Windows utility to quickly switch audio output devices.
 
-## Preview
+![Windows](https://img.shields.io/badge/Windows-Portable-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Built With Tauri](https://img.shields.io/badge/Built%20With-Tauri-24C8DB)
+![MPTech](https://img.shields.io/badge/MPTech-Tools-black)
 
-![audio-switcher - Audio-Devie-Switcher](docs/screenshots/Audio-Devie-Switcher.png)
+---
 
-## What it does
+## Overview
 
-Audio Device Switcher helps you switch between Windows audio output devices without opening Windows sound settings.
+Audio Device Switcher is part of MPTech Windows Tools, a collection of small utilities focused on practical technical use cases.
 
-It is designed for users who frequently move between speakers, monitors, headphones, Bluetooth devices or audio interfaces.
+Official website:
+
+https://mptechsolutions.es
+
+---
+
+## Problem It Solves
+
+Switching between speakers, headphones, monitors and audio interfaces in Windows can be slow and annoying.
+
+---
+
+## Who It Is For
+
+Windows users, streamers, technicians and power users with multiple audio devices.
+
+---
 
 ## Features
 
-- Detect active Windows output audio devices.
-- Show the current default output device.
-- Set any detected output device as default.
-- Cycle to the next output device.
-- Configurable global keyboard shortcut.
-- Exclude devices from the shortcut cycle.
-- Tray/background mode.
-- Closing the window keeps the app running in the tray.
-- Tray menu with Open app and Close app.
-- Optional launch with Windows.
-- Optional start minimized.
-- English, Spanish and Portuguese interface.
+- List available audio output devices
+- Switch active output device
+- Simple desktop interface
+- Portable executable
+- Designed for fast daily use
 
-## Release
 
-Portable executable:
+---
 
-../../releases/audio-device-switcher/audio-device-switcher.exe
+## Screenshots
 
-Checksum:
+Screenshots will be added in:
 
-../../releases/audio-device-switcher/checksums.txt
+docs/screenshots/
 
-## Usage
+Recommended files:
 
-1. Open audio-device-switcher.exe.
-2. Select the audio output device you want.
-3. Click Set default / Predeterminar.
-4. Configure a global shortcut if needed.
-5. Close the window to keep the app running in the tray.
-6. Use the tray icon to open or fully close the app.
+- docs/screenshots/main.png
+- docs/screenshots/result.png
 
-## Shortcut behavior
+---
 
-The shortcut cycles through included devices.
+## Download
 
-Devices marked as excluded are ignored by the shortcut, but they are not disabled in Windows.
+Latest release:
 
-This means you can keep a device available manually while preventing the shortcut from switching to it.
+https://github.com/xml2811/Audio-switcher/releases/latest
 
-## Startup behavior
+Download only from official sources:
 
-The app can launch with Windows without administrator permissions.
+- https://github.com/xml2811/Audio-switcher
+- https://mptechsolutions.es
 
-It writes a registry entry under the current user:
+---
 
-HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+## Installation
 
-If you move the portable executable after enabling startup, disable and enable startup again so Windows stores the new path.
+This tool is designed as a portable Windows executable.
 
-## Notes
+General usage:
 
-Windows SmartScreen may show a warning because the executable is not code-signed yet.
+1. Download the latest .exe from Releases.
+2. Place it in any folder.
+3. Run it.
 
-This tool does not use accounts, cloud services, tracking, servers or external APIs.
+No installer is required unless a future release adds one.
+
+---
+
+## Security Notice
+
+Early releases may not be digitally signed yet.
+
+Because of that, Windows SmartScreen may show a warning.
+
+This does not automatically mean the file is malicious, but you should only download the tool from official sources.
+
+Future improvements may include:
+
+- SHA256 checksums
+- Digital code signing
+- Dedicated documentation
+- Dedicated download page on MPTechSolutions
+
+---
+
+## Roadmap
+
+Planned improvements may include:
+
+- Better UI polish
+- More diagnostics
+- Better export options
+- Multilanguage support
+- Signed releases in the future
+- Documentation on MPTechSolutions.es
+
+---
+
+## Related Links
+
+| Resource | Link |
+|---|---|
+| Official Website | https://mptechsolutions.es |
+| GitHub Profile | https://github.com/xml2811 |
+| Windows Tools Catalog | https://github.com/xml2811/Windows-Tools |
+| Repository | https://github.com/xml2811/Audio-switcher |
+| Latest Release | https://github.com/xml2811/Audio-switcher/releases/latest |
+
+---
+
+## License
+
+Check the repository license before using, modifying or redistributing this software.
