@@ -15,7 +15,7 @@ Audio Device Switcher is part of **MPTech Windows Tools**, a collection of small
 
 Official website:
 
-https://mptechsolutions.es
+https://vekland.es
 
 ---
 
